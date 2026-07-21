@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" font-family="ConsolasFallback,Consolas,monospace" font-size="16px" width="1086px" height="670px" viewBox="0 0 1086 670">
+<title>york@zhou - ASCII profile</title>
+<style>
+@font-face {
+src: local('Consolas');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+text, tspan {white-space: pre;}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+</style>
+<rect width="1086px" height="670px" fill="#f6f8fa" rx="15"/>
+<text fill="#24292f">
+<tspan x="15" y="31.0">:::::::::...............::-==++=--::........................</tspan>
+<tspan x="15" y="52.3">:::::::::........:--+##%%#@@@@@@@@@@%*=-:...................</tspan>
+<tspan x="15" y="73.7">.::..::::......:=#%@@@@@@@@@@@@@@@@@@@@@@%*=:. .............</tspan>
+<tspan x="15" y="95.0">..........  :+%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#=:. ..........</tspan>
+<tspan x="15" y="116.3">..........:+%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#=. ........</tspan>
+<tspan x="15" y="137.7">........:*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#-........</tspan>
+<tspan x="15" y="159.0">.......=@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#:......</tspan>
+<tspan x="15" y="180.3">......+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+......</tspan>
+<tspan x="15" y="201.7">.....+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#......</tspan>
+<tspan x="15" y="223.0">....:@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+. ....</tspan>
+<tspan x="15" y="244.3">....:#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@* .....</tspan>
+<tspan x="15" y="265.7">.... =@@@@@@@@@@@%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@: ....</tspan>
+<tspan x="15" y="287.0">.... =@@@@@@%@@%%@@%#*%%@@@%##%%@@@@@@%%#**+*%@@@@@@@=. ....</tspan>
+<tspan x="15" y="308.3">..   .=@@@@@=#%%%%%%%#****#***##########**+++#@@@@##%:     .</tspan>
+<tspan x="15" y="329.7">  .    -#@@%++***++********###****####****@%=+@@#+=+*.      </tspan>
+<tspan x="15" y="351.0">        =#%%#==++**#%%#**#*#%######%####*+*+-=%%++++=      .</tspan>
+<tspan x="15" y="372.3">        ==*%=--=+++*##*+*+=+*###****++++++==--==+##*-     ..</tspan>
+<tspan x="15" y="393.7">        :-*%--======++====-+***********++===----=*%*:       </tspan>
+<tspan x="15" y="415.0">         -##--=--=+++++=--=+**********++++==----+#+=.       </tspan>
+<tspan x="15" y="436.3">         .+*=-=-:-=++*=-=--=++**+*#**++++===----++=:        </tspan>
+<tspan x="15" y="457.7">          .-=-====++*+==++=+**#*******++=====----:.         </tspan>
+<tspan x="15" y="479.0">           .--====+**+=====+++********+++====--.            </tspan>
+<tspan x="15" y="500.3">              -====+*+++++++*******##*+++==-=--.            </tspan>
+<tspan x="15" y="521.7">              :=====+**#*+===++**##***++=======#%#*+=-:..   </tspan>
+<tspan x="15" y="543.0">               -=====+==++****##**++*+++===+++=%@@@@@@@@%#**</tspan>
+<tspan x="15" y="564.3">                -+++======++****++**++===+***+=#@@@@@@@@@@@@</tspan>
+<tspan x="15" y="585.7">                .***+=======+++++++++==+****+++#@@@@@@@@@@@@</tspan>
+<tspan x="15" y="607.0">               -%@#***+==---===++++++**##**+++*#@@@@@@@@@@@@</tspan>
+<tspan x="15" y="628.3">             .*@@@@******+++*****##************#@@@@@@@@@@@@</tspan>
+<tspan x="15" y="649.7">            .#@@@@@%*****+++*****************##%@@@@@@@@@@@@</tspan>
+</text>
+<text fill="#24292f">
+<tspan x="619.8" y="31.0"><tspan class="key">york@zhou</tspan> ─────────────────────────────────────</tspan>
+<tspan x="619.8" y="52.3"><tspan class="key">. Name: </tspan>.............................<tspan class="value"> York Zhou</tspan></tspan>
+<tspan x="619.8" y="73.7"><tspan class="key">. University: </tspan>...<tspan class="value"> University of Notre Dame 2029</tspan></tspan>
+<tspan x="619.8" y="95.0"><tspan class="key">. Majors: </tspan>........................<tspan class="value"> CS + Finance</tspan></tspan>
+<tspan x="619.8" y="116.3"><tspan class="key">. Minor: </tspan>.................................<tspan class="value"> Math</tspan></tspan>
+<tspan x="619.8" y="137.7"><tspan class="key">. Languages: </tspan>..............<tspan class="value"> C, Python, JS, Java</tspan></tspan>
+<tspan x="619.8" y="180.3">- Links ───────────────────────────────────────</tspan>
+<tspan x="619.8" y="201.7"><tspan class="key">. LinkedIn: </tspan>...<tspan class="value"> www.linkedin.com/in/yorkzhou845</tspan></tspan>
+<tspan x="619.8" y="223.0"><tspan class="key">. Projects: </tspan>.......................<tspan class="value"> polymac.net</tspan></tspan>
+</text>
+</svg>
